@@ -1,0 +1,23 @@
+Customer ID,Year 1 ARR ($),Year 2 ARR ($),Year 3 ARR ($),Change Type Y1-Y2,Reason Y1-Y2,Change Type Y2-Y3,Reason Y2-Y3
+C001,10000,12000,14000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C002,20000,22000,24500,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C003,15000,14000,13000,Downsell,Reduced team size,Downsell,Budget cuts
+C004,8000,9500,11000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C005,25000,27000,30000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C006,5000,5000,0,Retained - Flat,Stable usage,Churned,Contract not renewed
+C007,12000,12000,12000,Retained - Flat,Stable usage,Retained - Flat,Consistent engagement
+C008,18000,19000,21000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C009,10000,10000,0,Retained - Flat,Stable usage,Churned,Contract not renewed
+C010,30000,32000,35000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C011,7000,6000,5000,Downsell,Reduced team size,Downsell,Budget cuts
+C012,22000,24000,26000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C013,9000,11000,13000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C014,14000,15000,15500,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C015,6000,6500,7500,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C016,13000,14500,16000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C017,11000,10000,9000,Downsell,Reduced team size,Downsell,Budget cuts
+C018,19000,20000,22000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C019,0,7000,8000,New,New enterprise contract,Upsell,Adopted premium modules
+C020,0,0,10000,No ARR,No activity,New,Signed up after trial success
+C021,16000,17500,19000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
+C022,21000,23000,26000,Upsell,Expanded user licenses,Upsell,Adopted premium modules
